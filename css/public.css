@@ -1,0 +1,18 @@
+/*
+* @Author: 贾思凡
+* @Date:   2018-02-22 17:41:33
+* @Last Modified by:   贾思凡
+* @Last Modified time: 2018-03-02 10:51:50
+*/
+*{
+	margin: 0;/*body-8px*/
+	text-decoration: none;
+	
+	font-style: normal;
+	padding: 0;
+	list-style: none;
+}
+* a{
+	outline: none;
+	color: #999;
+}
